@@ -1,0 +1,30 @@
+:root{
+    background: #F6F8FA;
+}
+
+
+.headding{
+    background: #24292E ;
+    color: #F6F8FA;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.box{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+     width: 440px;
+    padding: 15px;
+    background: white;
+    text-align: center;
+    border: 1px solid #e1e4e8;
+    margin: 10px;
+}
+.box > button {
+    margin-top : 25px;
+    padding: 5px 25px ;
+    
+}
+
